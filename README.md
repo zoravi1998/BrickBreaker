@@ -1,5 +1,5 @@
 # BrickBreaker
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/ss/Capture.png)
 Format: ![Alt Text](url)
 
